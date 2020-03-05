@@ -12,6 +12,8 @@ dependencies:
 
   cupertino_icons: ^0.1.2
 
+  assets_audio_player: ^1.2.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
